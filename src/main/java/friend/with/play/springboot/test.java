@@ -29,7 +29,6 @@ public class test {
         String pattern = "";
 
         for (int j = 0; j <= str.length() + i; j += i) {
-
             String nowStr;
 
             // 전 문자열과 비교할 현재 문자열
