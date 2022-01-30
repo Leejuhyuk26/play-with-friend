@@ -62,6 +62,7 @@ public class test {
     public void 정답() {
         Assert.assertEquals(7, solution("aabbaccc"));
         Assert.assertEquals(7, solution("aabbaccc"));
+        Assert.assertEquals(7, solution("aabbaccc"));
         Assert.assertEquals(17, solution("xababcdcdababcdcd"));
     }
 }
